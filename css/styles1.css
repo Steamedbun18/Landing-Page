@@ -1,0 +1,13 @@
+/*.custom-btn {
+	background-color: orange;
+	color: black;
+
+}
+.custom-btn:hover {
+	background-color: #a76c02;
+	color: black;
+}*/
+
+hr {
+	background-color: orange;
+}
